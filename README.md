@@ -1,0 +1,1 @@
+Este es el readme del ejercicio 3 clase 2
